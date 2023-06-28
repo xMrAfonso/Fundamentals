@@ -1,0 +1,7 @@
+name: Fundamentals
+version: '${version}'
+main: me.mrafonso.fundamentals.Fundamentals
+api-version: '1.20'
+prefix: Fundamentals
+authors: [MrAfonso]
+description: Fundamental plugin for an enhanced Minecraft server experience.
